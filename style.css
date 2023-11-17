@@ -1,0 +1,14 @@
+.visible{
+    visibility:visible;
+    color:red;
+}
+.hidden{
+    visibility:hidden;
+}
+.op{
+    opacity:0.1;
+}
+.display{
+    display:inline;
+    font-style:italic;
+}
